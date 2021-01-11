@@ -12,7 +12,7 @@ So normally you need to connect it to EXP2.
 
 ### [F6](https://github.com/FYSETC/FYSETC-F6)
 
-![](images\F6.jpg)
+![](images/F6.jpg)
 
 ### [S6](https://github.com/FYSETC/FYSETC-S6)
 
