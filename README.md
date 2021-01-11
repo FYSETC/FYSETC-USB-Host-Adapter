@@ -10,11 +10,11 @@ This USB host adapter should work with Marlin standard 3d printer motherboard  t
 
 So normally you need to connect it to EXP2.
 
-### F6
+### [F6](https://github.com/FYSETC/FYSETC-F6)
 
 ![](images\F6.jpg)
 
-### S6
+### [S6](https://github.com/FYSETC/FYSETC-S6)
 
 ![](images/S6.jpg)
 
